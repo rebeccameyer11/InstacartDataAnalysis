@@ -51,4 +51,14 @@ Instacart has made their data available online. Datasets in this project:
    <li>Seaborn</li>
    <li>Matplotlib</li>
    <li>SciPy</li>
- </ul>
+  </ul>
+
+  ## Key Takeaways
+   <ul>
+   <li>Most orders come through during the 11:00 to 15:00 hours of the day. Instacart can expect to be busiest during those timeframes and should aim to schedule ads during the hours of 0:00 - 10:00 and 16:00 - 24:00.</li>
+   <li>Weekend shopping is the most popular.</li>
+   <li>Regular customers are the primary customer at Instacart.</li>
+   <li>There is no connection between dependents and age.</li>
+   <li>More products are bought in the Mid-Range category (price is greater than 5, and less than or equal to 15).</li>
+   <li>Department_id 4 (Produce) has the highest frequency of product orders, followed by department_id 16 (Dairy Eggs).</li>
+  </ul>
