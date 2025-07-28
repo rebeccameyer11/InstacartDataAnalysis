@@ -62,3 +62,6 @@ Instacart has made their data available online. Datasets in this project:
    <li>More products are bought in the Mid-Range category (price is greater than 5, and less than or equal to 15).</li>
    <li>Department_id 4 (Produce) has the highest frequency of product orders, followed by department_id 16 (Dairy Eggs).</li>
   </ul>
+
+  ## Final Deliverable:
+  Final Report: <a href="https://docs.google.com/spreadsheets/d/17OX4X24E0fPhQf-v6XimJL1RkKlKF5VO/edit?gid=1159465294#gid=1159465294">View</a>
